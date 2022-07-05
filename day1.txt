@@ -1,0 +1,9 @@
+https://leetcode.cn/problems/two-sum/
+
+https://leetcode.cn/problems/majority-element/
+
+https://leetcode.cn/problems/longest-common-prefix/
+
+
+
+在github上创建一个项目，大家把做完的题目整理成文件夹（以名字全拼命名），推送到github仓库。
